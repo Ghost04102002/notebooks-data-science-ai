@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Parroquia Ayacucho", "precio": 317500.0, "preciopmt2": 513.47795947947191 }, "geometry": { "type": "Point", "coordinates": [ -79.892234700000017, -2.2114681 ] } },
+{ "type": "Feature", "properties": { "Name": "Parroquia Bolivar", "precio": 161750.0, "preciopmt2": 561.03065510281999 }, "geometry": { "type": "Point", "coordinates": [ -79.889799015174844, -2.203371769871738 ] } },
+{ "type": "Feature", "properties": { "Name": "Parroquia Febres Cordero", "precio": 290376.54166666669, "preciopmt2": 848.26654341056326 }, "geometry": { "type": "Point", "coordinates": [ -79.924107270708461, -2.210764839381278 ] } },
+{ "type": "Feature", "properties": { "Name": "Parroquia Garcia Moreno", "precio": 99500.0, "preciopmt2": 406.02943327012366 }, "geometry": { "type": "Point", "coordinates": [ -79.90076931757396, -2.21711120483623 ] } },
+{ "type": "Feature", "properties": { "Name": "Parroquia Letamendi", "precio": 94714.28571428571, "preciopmt2": 515.92167642514744 }, "geometry": { "type": "Point", "coordinates": [ -79.910387274055054, -2.206872925745705 ] } },
+{ "type": "Feature", "properties": { "Name": "Parroquia Nueve de Octubre", "precio": 247500.0, "preciopmt2": 952.99792330725404 }, "geometry": { "type": "Point", "coordinates": [ -79.892251875000014, -2.188171675 ] } },
+{ "type": "Feature", "properties": { "Name": "Parroquia Olmedo", "precio": 97500.0, "preciopmt2": 832.63410248726393 }, "geometry": { "type": "Point", "coordinates": [ -79.88605895, -2.20356125 ] } },
+{ "type": "Feature", "properties": { "Name": "Parroquia Pascuales", "precio": 143052.63157894736, "preciopmt2": 775.16724675830687 }, "geometry": { "type": "Point", "coordinates": [ -79.933373305160856, -2.072917324192218 ] } },
+{ "type": "Feature", "properties": { "Name": "Parroquia Pedro Carbo", "precio": 146545.45454545456, "preciopmt2": 757.57261852810268 }, "geometry": { "type": "Point", "coordinates": [ -79.88158962297365, -2.191526053604974 ] } },
+{ "type": "Feature", "properties": { "Name": "Parroquia Roca", "precio": 184200.0, "preciopmt2": 798.7338356413984 }, "geometry": { "type": "Point", "coordinates": [ -79.886893552493206, -2.188288174487221 ] } },
+{ "type": "Feature", "properties": { "Name": "Parroquia Rocafuerte", "precio": 224545.45454545456, "preciopmt2": 890.27628524487397 }, "geometry": { "type": "Point", "coordinates": [ -79.8871407, -2.192269 ] } },
+{ "type": "Feature", "properties": { "Name": "Parroquia Sucre", "precio": 165357.14285714287, "preciopmt2": 584.29999385557107 }, "geometry": { "type": "Point", "coordinates": [ -79.896377567384107, -2.200900646223277 ] } },
+{ "type": "Feature", "properties": { "Name": "Parroquia Tarqui", "precio": 229226.95914742452, "preciopmt2": 796.94712409778026 }, "geometry": { "type": "Point", "coordinates": [ -79.912996330170728, -2.141364039429246 ] } },
+{ "type": "Feature", "properties": { "Name": "Parroquia Urdaneta", "precio": 163818.18181818182, "preciopmt2": 4409.8757929205085 }, "geometry": { "type": "Point", "coordinates": [ -79.907441182028222, -2.197116104710797 ] } },
+{ "type": "Feature", "properties": { "Name": "Parroquia Ximena", "precio": 151705.88235294117, "preciopmt2": 533.07613066003523 }, "geometry": { "type": "Point", "coordinates": [ -79.895820480046481, -2.238838793519691 ] } },
+{ "type": "Feature", "properties": { "Name": "Parroquia de Chongon", "precio": 292777.18421052629, "preciopmt2": 2332.9983545249347 }, "geometry": { "type": "Point", "coordinates": [ -79.967088909265641, -2.189037904124241 ] } }
+]
+}
